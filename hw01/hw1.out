@@ -1,0 +1,13 @@
+Reading data from input stream...
+Loading instruction set...
+Accumulator: 0 Loaded 1
+Accumulator: 1000 Added 5
+Accumulator: 6000 Subtract 3
+Accumulator: 3000 Stored accumulator into 15
+Accumulator: 3000 Added 15
+Accumulator: 6000 Cannot jump to instruction 10
+Accumulator: 6000 Subtract 9
+Accumulator: -3000 Jumping to instruction 10
+Accumulator: -3000 
+
+Final Value of Accumulator: -3000.
