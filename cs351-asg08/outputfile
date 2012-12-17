@@ -1,0 +1,12 @@
+1. Dequeue first in line
+2. Empty the list
+3. Display the list
+0. Quit this
+?. Display This Menu
+Anything Else. Add to queue
+
+List: a b c d e f 
+ERROR: List is full
+List: b c d e f g h j k 
+List: ERROR: Queue is empty
+
